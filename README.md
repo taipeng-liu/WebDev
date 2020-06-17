@@ -4,5 +4,5 @@ This repository is a project of web developing. Welcome to visit my homepage [ww
 
 ## Directory Contents
 
-`content` -- All posts, pictures and notes.
+`content` -- All posts, pictures and notes.<br>
 `host` -- Setup of web host.
