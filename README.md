@@ -1,4 +1,8 @@
-This repository contains:
-* backup of site "www.taipengliu.com";
-* example code; and
-* project code.
+# Web Developing Project
+
+This repository is a project of web developing. Welcome to visit my homepage [www.taipengliu.com](www.taipengliu.com).
+
+## Directory Contents
+
+`content` -- All posts, pictures and notes.
+`host` -- Setup of web host.
